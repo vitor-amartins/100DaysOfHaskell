@@ -12,3 +12,4 @@ Started studying by http://learnyouahaskell.com/
 1. Day 005: Chapter 6. Higher Order Functions finished, from Learn You a Haskell
 1. Day 006: Chapter 7. Modules: Loading modules, from Learn You a Haskell
 1. Day 007: Chapter 7. Modules: Data.List, from Learn You a Haskell
+1. Day 008: Chapter 7. Modules: Data.Char, from Learn You a Haskell
