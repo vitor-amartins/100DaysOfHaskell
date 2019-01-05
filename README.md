@@ -14,3 +14,4 @@ Started studying by http://learnyouahaskell.com/
 1. Day 007: Chapter 7. Modules: Data.List, from Learn You a Haskell
 1. Day 008: Chapter 7. Modules: Data.Char, from Learn You a Haskell
 1. Day 009: Chapter 7. Modules finished, from Learn You a Haskell
+1. Day 010: Chapter 8. Making Our Own Types and Typeclasses until Type parameters, from Learn You a Haskell
